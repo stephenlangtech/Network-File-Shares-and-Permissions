@@ -16,6 +16,11 @@ In this lab, we will share resources over a network by creating files and config
 
 - Windows 10</b> (21H2)
 
+<h2>List of Prerequisites</h2>
+
+- A Virtual Machine used as a Domain Controller with AD DS
+- A Virtual Machine used as a Client 
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
