@@ -67,7 +67,7 @@ On DC-1, open Active Directory Users and Computers (ADUC) and create a new organ
 <img src="https://i.imgur.com/cZo9Poi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Return to ADUC on DC-1 and add some domain users to the newly created ACCOUNTANTS group. To do this, right-click the ACCOUNTANTS group, select Properties, navigate to the Members tab, and add the desired users.
+Return to ADUC on DC-1 and add some domain users to the newly created ACCOUNTANTS group. To do this, right-click the ACCOUNTANTS group, select Properties, navigate to the Members tab, and add the desired users. Also give the ACCOUNTANTS group read/write permissions for the accounting file now. 
 </p>
 <br />
 
